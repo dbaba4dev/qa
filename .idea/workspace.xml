@@ -131,8 +131,13 @@
   <component name="ProjectId" id="1fB4sycZFykhPpdI3dZqOs3mq5c" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="C:/Program Files/Git/git-cmd.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/questions" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\laragon\www\qa\resources\views\questions" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -163,7 +168,7 @@
       <option name="presentableId" value="Default" />
       <updated>1595678362220</updated>
       <workItem from="1595678363616" duration="4878000" />
-      <workItem from="1595916796252" duration="3256000" />
+      <workItem from="1595916796252" duration="4777000" />
     </task>
     <servers />
   </component>
